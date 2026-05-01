@@ -1,0 +1,1 @@
+This repository contains a collection of core machine learning experiments and implementations. It serves as a practical sandbox for exploring data preprocessing, feature engineering, and model evaluation using industry-standard libraries like scikit-learn and pandas. Current projects include multi-class classification (Iris) and binary survival prediction (Titanic).
